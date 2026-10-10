@@ -1,0 +1,60 @@
+PRIVACY POLICY
+
+Rajasthan Quiz Master
+Developer: GloryDevTech (Harish Gurjar)
+Effective date: 10 October 2026
+Contact: glorydevtech@gmail.com
+
+1. INTRODUCTION
+Rajasthan Quiz Master ("the App", "we", "our") ek educational quiz app hai jo Rajasthan GK aur competitive exam practice ke liye banaya gaya hai. Ye policy batati hai ki App kaun si jankari use karta hai aur uska kya hota hai. App install ya use karke aap is policy se sahmat hote hain.
+
+2. JANKARI JO HUM COLLECT NAHI KARTE
+App me account, login ya registration nahi hai. Hum aapka naam, email, phone number, address, contacts, photos, microphone, camera ya precise location collect nahi karte.
+
+3. JANKARI JO APKE PHONE ME SAVE HOTI HAI (LOCAL)
+Aapke quiz attempts, scores, accuracy, daily streak aur attempt kiye gaye questions ki list sirf aapke device ke andar save hoti hai, taaki App aapka progress dikha sake. Ye data hamare server par nahi bheja jata. App uninstall karne ya App data clear karne par ye delete ho jata hai.
+
+4. QUESTION DATA (INTERNET USE)
+App naye questions download karne ke liye internet se hamare content server (CDN) se connect hota hai. Kisi bhi server se connect hone par standard technical jankari (jaise IP address, request ka time) server ke logs me aa sakti hai. Hum is jankari ko aapki pehchan karne ke liye use nahi karte.
+
+5. THIRD-PARTY SERVICES: GOOGLE ADMOB
+App me Google AdMob ke ads dikhaye jate hain. AdMob aapke device se kuch jankari collect aur use kar sakta hai, jaise:
+- Advertising ID
+- IP address aur approximate location (IP se)
+- Device aur OS ki jankari (model, OS version, language)
+- Ads ke saath interaction (impressions, clicks)
+- Diagnostics aur performance data
+
+Iska use ads dikhane, ads ko personalize karne, fraud rokne aur measurement ke liye hota hai. Google ki apni privacy policy lagu hoti hai:
+- https://policies.google.com/privacy
+- https://policies.google.com/technologies/partner-sites
+
+Jin regions me kanoon ke anusar consent zaroori hai (jaise EEA aur UK), wahan App Google ka consent form dikhata hai, jisme aap ads ke liye consent de ya mana kar sakte hain.
+
+Ads personalization band karne ke liye: Android Settings → Google → Ads → "Delete advertising ID" ya "Opt out of Ads Personalization".
+
+6. PERMISSIONS
+App ye permissions use karta hai:
+- INTERNET: questions download karne aur ads dikhane ke liye
+- ACCESS_NETWORK_STATE: internet available hai ya nahi, ye check karne ke liye
+- AD_ID (Advertising ID): ads ke liye, jaisa upar bataya gaya hai
+
+7. CHILDREN'S PRIVACY
+App 13 saal se kam umar ke bachon ke liye nahi banaya gaya hai, aur hum jaanboojhkar bachon ki personal jankari collect nahi karte. Agar aapko lagta hai ki kisi bachche ne hume jankari di hai, to humse sampark karein.
+
+8. DATA SECURITY
+Hum App me aapki personal jankari collect nahi karte, isliye hamare paas aapka koi personal data store nahi hota. Phir bhi koi bhi internet-based service 100% surakshit nahi hoti.
+
+9. DATA DELETION
+Aapka local data App uninstall karne ya Settings → Apps → Rajasthan Quiz Master → Storage → Clear Data se delete ho jata hai. AdMob se juda data ke liye Google ki settings use karein (upar section 5 dekhein).
+
+10. DISCLAIMER
+Ye App kisi sarkari sanstha, board ya exam authority se affiliated nahi hai. Ye ek independent educational practice app hai. Questions public study material par aadharit hain. Official jankari ke liye hamesha official notification dekhein.
+
+11. POLICY ME BADLAV
+Hum is policy ko kabhi bhi update kar sakte hain. Naya version isi page par effective date ke saath dikhega. Badlav ke baad App use karte rehne ka matlab hai ki aap naya version maante hain.
+
+12. SAMPARK
+Kisi bhi sawal ya request ke liye:
+GloryDevTech
+Email: glorydevtech@gmail.com
